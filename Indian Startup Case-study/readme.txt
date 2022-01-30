@@ -1,2 +1,7 @@
 This dataset has funding information of the Indian startups from January 2015 to August 2017.
-[View dataset at:](https://drive.google.com/open?id=1UaWCHLBZpxCmTSrmQQ5RXM5OMay17z8V)
+
+Data analysis is carried through powerful python libraries numpy, pandas and matplotlib.
+
+The problem statements and conclusions are summarized in the documentation.
+
+For a detailed understanding of how each problem was tackled, view the code.
